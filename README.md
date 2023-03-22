@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 <!-- about me -->
 
 ### :man_technologist: About Me :
-I am an Post Graduate in MCA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am an Post Graduate in MCA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India - 🇮🇳: .
 - :telescope: I’m a programmer looking for a job.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and Hackerrank.
+- :zap: In my free time, I solve problems on GeeksforGeeks, Hackerrank and develop projects.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DineshSripathi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-sripathi-3065671b0/)
 
