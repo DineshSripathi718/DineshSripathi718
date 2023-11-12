@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 I am an Post Graduate in MCA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India - 🇮🇳: .
 - :telescope: I’m a programmer looking for a job.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Full Stack Java Trainer in Teks Acadamey.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Hackerrank and develop projects.
 
