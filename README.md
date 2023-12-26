@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  !
+  Welcome to Dinesh Sripathi's GitHub!
 </h1>
 
 <div align="center">
@@ -52,12 +54,15 @@ Here are some ideas to get you started:
 <!-- about me -->
 
 ### :man_technologist: About Me :
-I am an Post Graduate in MCA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India - 🇮🇳: .
+ I'm Dinesh Sripathi – a passionate full-stack developer - java <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, avid up-skilling enthusiast, and a dedicated trainer in the world of technology. Here, you'll find a collection of my projects and repositories that reflect my journey in mastering the art of building robust and innovative applications across the entire tech stack.  
+ 
 - :telescope: I’m a programmer looking for a job.
 
-- :seedling: Full Stack Java Trainer in Teks Acadamey.
+- :seedling: Full Stack Web Developement - Java Trainer in Teks Acadamey.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Hackerrank and develop projects.
+
+- ❤️ Talks about the technology and mythology.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DineshSripathi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-sripathi-3065671b0/)
 
@@ -73,13 +78,15 @@ I am an Post Graduate in MCA <img src="https://media.giphy.com/media/WUlplcMpOCE
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-plain.svg"  title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/B3zW5UhNIXIvbiCRJBhBiYXv1PQNvCN-j3B67u-FeU0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zcHJp/bmcuaW8vaW1nL3Nw/cmluZy5zdmc.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tomcat/tomcat-original.svg" title="Tomcat" alt="Tomcat" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/chrome/chrome-original.svg" title = "Chrome" alt="chrome" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/5BrQkigOfwGNdS9peJFwVyu1hfQQqY8bXudrIaDaSDQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvOTE5LzkxOTgy/Ni5wbmc" title = "Chrome" alt="chrome" width="40" height="40"/>&nbsp;
+  <img src="https://imgs.search.brave.com/eW1tvLYPwdwy1UiGfabNTxoIryGtzsmSp5lEHysdRdc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTA1MS8xMDUx/Mjc3LnBuZw" title="html" alt= "html" width="40" height="40"/>&nbsp;
+   <img src="https://imgs.search.brave.com/vo6BX_XoOCp2zawTPCX6LDR7GYMp4BkOPyDkA_f-uFs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9h/L2E3L1JlYWN0LWlj/b24uc3Zn.svg" title="html" alt= "html" width="40" height="40"/>&nbsp;
+  
 </div>
 
 <!-- Git stats -->
